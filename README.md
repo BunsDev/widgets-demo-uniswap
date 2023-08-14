@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) to showcase how to integrate the @uniswap/widgets package in your own projects.
 
-## widgets-next
+## widgets-nextjs
 
 ![Uniswap Widgets](uniswap-widgets.png)
 
